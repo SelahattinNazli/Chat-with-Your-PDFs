@@ -1,8 +1,4 @@
-# Chat-with-Your-PDFs
 
-Tabii ki, işte bu kod ile yapacağınız proje için bir README dosyasına yazabileceğiniz içerik:
-
----
 
 # Chat with Multiple PDFs
 
